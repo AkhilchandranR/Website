@@ -1,0 +1,30 @@
+body{
+    background-image: url("../images/61305e71313e0.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    backdrop-filter: blur(5px);
+    background-color: rosybrown;
+    height: 100vh;
+    width: 100%;
+}
+.main-text {
+    text-align: center;
+    margin-top: 30vh;
+    font-size: 5em !important;
+    font-weight: 700;
+    color: whitesmoke;
+}
+.sub-text{
+    text-align: center;
+    color: whitesmoke;
+    font-weight: 500;
+    font-size: 2em;
+}
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
