@@ -14,7 +14,7 @@ body{
     margin-top: 30vh;
     font-size: 5em !important;
     font-weight: 700;
-    color: whitesmoke;
+    color: rgb(225, 235, 95);
 }
 .sub-text{
     text-align: center;
@@ -26,5 +26,12 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding: 5px 10px;
+}
+nav > h2{
+    color: whitesmoke;
+    font-weight: 400;
+    font-size: 2em;
+    margin-left: 20px;
 }
 
